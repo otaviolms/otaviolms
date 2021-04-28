@@ -1,5 +1,6 @@
 <h1 align="center">Oi, tudo bem? Sou o Otávio Luiz</h1>
-<h3 align="center">Engenheiro da computação, apaixonado por código! Como hobby criou alguns jogos simples.</h3>
+<h3 align="center">Engenheiro da computação, apaixonado por código!</h3>
+<h3 align="center">Como hobby crio alguns jogos e simulações com p5.js.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=otaviolms&label=Profile%20views&color=0e75b6&style=flat" alt="otaviolms" /> </p>
 
