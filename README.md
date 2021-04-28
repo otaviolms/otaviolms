@@ -6,7 +6,7 @@
 
 <h3 align="left">Quer falar comigo? É só me chamar:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/otaviolms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="otaviolms" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/otaviolms" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-otaviolms-blue?logo=linkedin&logoColor=white&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Fotaviolms%2F" alt="otaviolms" /></a>
 <a href="https://instagram.com/otaviolms" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-otaviolms-blue?logo=instagram&logoColor=white&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Fotaviolms%2F" alt="otaviolms" /></a>
 </p>
 
