@@ -1,6 +1,5 @@
 <h1 align="center">Oi, tudo bem? Sou o Otávio Luiz</h1>
 <h3 align="center">Engenheiro da computação, apaixonado por código!</h3>
-<h3 align="center">Como hobby crio alguns jogos e simulações com p5.js.</h3>
 
 <h3 align="center">Quer falar comigo? É só me chamar!</h3>
 <p align="center">
